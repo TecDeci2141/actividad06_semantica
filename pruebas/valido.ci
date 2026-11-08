@@ -1,0 +1,4 @@
+int contador;
+float promedio;
+contador = 3;
+print(promedio);

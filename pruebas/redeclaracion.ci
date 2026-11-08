@@ -1,0 +1,3 @@
+int total;
+float total;
+print(total);

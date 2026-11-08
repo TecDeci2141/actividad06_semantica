@@ -1,0 +1,4 @@
+int dato;
+dato = 4;
+print(dato);
+print(dato);
